@@ -1,4 +1,6 @@
+
 ---
+
 # Simple Snake Game in Django Using Turtle
 
 ## Overview
@@ -130,5 +132,6 @@ To contribute:
 For any inquiries or support:
 
 - Email: support@snakegame.com
-- GitHub: [niral-nadisara](https://github.com/niral-nadisara)
+- GitHub: [yourusername](https://github.com/yourusername)
+
 ---
